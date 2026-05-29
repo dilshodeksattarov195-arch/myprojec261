@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteetch",
+        "uuid": 845379,
+        "checksum": "qnkb5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
